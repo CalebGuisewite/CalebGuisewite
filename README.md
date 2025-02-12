@@ -8,7 +8,7 @@ I enjoy working on projects that transform raw data into meaningful insights, wh
 
 💡 Current Projects
 🚀 AI Chatbot for Customer Support
-Biomechanical Analysis of Baseball Players using Machine Learning
+🚀 Biomechanical Analysis of Baseball Players using Machine Learning
 
 Developing a customer support chatbot that can be integrated into websites.
 Using natural language processing (NLP) and AI to provide fast and efficient support.
